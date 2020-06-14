@@ -26,4 +26,4 @@ The goal for this analysis is to predict if a review rates the movie positively 
 * Logistic Regression | 90.79 %
 * Support Vector Machine | 91.08 %
 * Multinomail Naive Bayes | 91.32 %
-* Simple Neural Net | 92%
+* Simple Neural Net | 92.83 %
