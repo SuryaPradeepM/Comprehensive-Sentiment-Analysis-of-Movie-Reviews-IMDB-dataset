@@ -6,8 +6,8 @@ The goal for this analysis is to predict if a review rates the movie positively 
 - http://ai.stanford.edu/~amaas/data/sentiment
 - Contains 25000 positive and 25000 negative reviews
 - Contains at most reviews per movie
-- At least 7 stars out of 10 $\rightarrow$ positive (label = 1)
-- At most 4 stars out of 10 $\rightarrow$ negative (label = 0)
+- At least 7 stars out of 10 &rarr; positive (label = 1)
+- At most 4 stars out of 10 &rarr; negative (label = 0)
 
 ### <h3 align = "left">Notebooks</h3>
 1. [Exploration and Preprocessing](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/Data_exploration_Preprocess.ipynb)
