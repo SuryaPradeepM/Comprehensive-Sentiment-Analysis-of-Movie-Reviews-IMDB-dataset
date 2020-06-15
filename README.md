@@ -13,8 +13,7 @@ The goal for this analysis is to predict if a review rates the movie positively 
 1. [Exploration and Preprocessing](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/Data_exploration_Preprocess.ipynb)
 2. [Base Models (Logistic Regression, Multinomial NB)](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/Base_models_predictions.ipynb)
 3. [Keras Models](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/Keras_Models_predictions.ipynb)
-
-
+4. [PyTorch RNN Model](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/PyTorch_RNN_predictions.ipynb)
 
 
 ### <h3 align = "left">Dataset </h3>
@@ -26,4 +25,12 @@ The goal for this analysis is to predict if a review rates the movie positively 
 * Logistic Regression | 90.79 %
 * Support Vector Machine | 91.08 %
 * Multinomail Naive Bayes | 91.32 %
-* Simple Neural Net | 92.83 %
+* Simple Neural Net Keras | 92.83 %
+* RNN LSTM PyTorch | 86.04 %
+
+### <h3 align = "left">WordClouds</h3>
+##### Positive Reviews WordCloud
+![Positive WordCLoud](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/images/Positive%20Reviews%20WordCloud.png)
+##### Negative Reviews WordCloud
+![Negative WordCLoud](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/images/Negative%20Reviews%20WordCloud.png)
+
