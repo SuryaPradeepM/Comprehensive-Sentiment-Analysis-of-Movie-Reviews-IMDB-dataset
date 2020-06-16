@@ -32,8 +32,8 @@ The goal for this analysis is to predict if a review rates the movie positively 
 * BERT Fine Tuning | 91.68 %
 
 ### <h3 align = "left">WordClouds</h3>
-##### Positive Reviews WordCloud
+#### Positive Reviews WordCloud
 ![Positive WordCLoud](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/images/Positive%20Reviews%20WordCloud.png)
-##### Negative Reviews WordCloud
+#### Negative Reviews WordCloud
 ![Negative WordCLoud](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/images/Negative%20Reviews%20WordCloud.png)
 
