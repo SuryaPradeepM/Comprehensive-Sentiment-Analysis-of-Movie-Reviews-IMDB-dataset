@@ -15,7 +15,7 @@ The goal for this analysis is to predict if a review rates the movie positively 
 2. [Base Models (Logistic Regression, Multinomial NB)](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/Base_models_predictions.ipynb)
 3. [Keras Models](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/Keras_Models_predictions.ipynb)
 4. [PyTorch RNN Model](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/PyTorch_RNN_predictions.ipynb)
-5. [BERT Fine Tuned Model]
+5. [BERT Fine Tuned Model](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/Bert_model_predictions.ipynb)
 
 
 ### <h3 align = "left">Dataset </h3>
