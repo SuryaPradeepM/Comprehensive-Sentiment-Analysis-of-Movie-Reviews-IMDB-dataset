@@ -26,7 +26,7 @@ The goal for this analysis is to predict if a review rates the movie positively 
 ### <h3 align = "left">Accuracies Achieved: </h3>
 * Logistic Regression | 90.79 %
 * Support Vector Machine | 91.08 %
-* Multinomail Naive Bayes | 91.32 %
+* Multinomial Naive Bayes | 91.32 %
 * Simple Neural Net Keras | 92.83 %
 * RNN LSTM PyTorch | 86.04 %
 * BERT Fine Tuning | 91.68 %
