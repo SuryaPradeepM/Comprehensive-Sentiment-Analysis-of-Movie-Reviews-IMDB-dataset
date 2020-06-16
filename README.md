@@ -1,5 +1,6 @@
 ## Autoamted Sentiment Analysis of Movie Reviews using various approaches including sklearn models, keras models & transfer learning
 The goal for this analysis is to predict if a review rates the movie positively or negatively. Inside this dataset, there are 25,000 labelled movies reviews for training, 50,000 unlabeled reviews for training, and 25,000 reviews for testing.
+<a href="https://imgur.com/FfdEBRz"><img src="https://i.imgur.com/FfdEBRzm.png" title="source: imgur.com" align="right"></a>
 - IMDB movie reviews dataset
 - http://ai.stanford.edu/~amaas/data/sentiment
 - https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
@@ -7,7 +8,7 @@ The goal for this analysis is to predict if a review rates the movie positively 
 - Contains at most reviews per movie
 - At least 7 stars out of 10 &rarr; positive (label = 1)
 - At most 4 stars out of 10 &rarr; negative (label = 0)
-<a href="https://imgur.com/FfdEBRz"><img src="https://i.imgur.com/FfdEBRzm.png" title="source: imgur.com" align="right"></a>
+
 
 ### <h3 align = "left">Notebooks</h3>
 1. [Exploration and Preprocessing](https://github.com/SuryaPradeepM/Comprehensive-Sentiment-Analysis-of-Movie-Reviews-IMDB-dataset/blob/master/Data_exploration_Preprocess.ipynb)
