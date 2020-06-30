@@ -1,4 +1,4 @@
-## Autoamted Sentiment Analysis of Movie Reviews using various approaches including sklearn models, keras models & transfer learning
+## Automated Sentiment Analysis of Movie Reviews using various approaches including sklearn models, keras models & transfer learning
 The goal for this analysis is to predict if a review rates the movie positively or negatively. Inside this dataset, there are 25,000 labelled movies reviews for training, 50,000 unlabeled reviews for training, and 25,000 reviews for testing.
 <a href="https://imgur.com/FfdEBRz"><img src="https://i.imgur.com/FfdEBRzm.png" title="source: imgur.com" align="right"></a>
 - IMDB movie reviews dataset
