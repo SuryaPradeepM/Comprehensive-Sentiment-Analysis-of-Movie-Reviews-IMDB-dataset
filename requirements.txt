@@ -13,7 +13,7 @@ seaborn==0.10.1
 snowballstemmer==2.0.0
 spacy==2.0.12
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==2.4.0
 torch==1.5.0
 unicodecsv==0.14.1
 Unidecode==1.1.1
